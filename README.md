@@ -76,7 +76,7 @@ application workflows, selective-disclosure flows, testing, and troubleshooting.
 ## Beyond the code
 
 ### 👩‍💻 Kids Who Code
-I lead a **90+ member student organization** at NJIT that brings hands-on coding
+I lead a **350+ member student organization** at NJIT that brings hands-on coding
 education to K–12 students in Newark.
 
 ### 🔬 Human-centered computing
