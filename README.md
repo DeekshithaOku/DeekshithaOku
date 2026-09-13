@@ -1,133 +1,129 @@
-<h1 align="center">Hi, I'm Deekshitha 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>Computer Science + UX @ NJIT · Graduating May 2027</b>
-</p>
+# Hey, I'm Deekshitha 👋
 
-<p align="center">
-  Building thoughtful digital products at the intersection of engineering, UX, and AI.
-</p>
+### I like figuring out what to build — and then figuring out how to build it.
 
-<p align="center">
-  <a href="YOUR_PORTFOLIO_LINK">PORTFOLIO</a> •
-  <a href="https://www.linkedin.com/in/deekshithaoku">LINKEDIN</a> •
-  <a href="mailto:oku.deekshitha@gmail.com">EMAIL</a>
-</p>
+Computer Science + UX @ NJIT · Graduating May 2027
+
+[Portfolio](YOUR_PORTFOLIO_LINK) ·
+[LinkedIn](https://www.linkedin.com/in/deekshithaoku) ·
+[Email](mailto:oku.deekshitha@gmail.com)
+
+</div>
 
 ---
 
-## About me
+## A little about me
 
-- 💻 **Web Developer @ SciQuel** — contributing to a React/Next.js science media platform
-- 👩‍💻 **President @ Kids Who Code, NJIT** — leading a 90+ member organization and building tools for our community
-- 🔬 **Former Research Assistant @ NJIT** — researched user interaction with AI-assisted learning experiences in AR/VR
-- 🤖 Interested in **product development, software engineering, human-centered AI, and UX**
-- 💡 I enjoy taking ideas from **problem → research → design → implementation**
+I'm a Computer Science student at **NJIT** minoring in **Design of the User Experience**.
 
----
+I’m interested in the space between an idea and a finished product: understanding
+the problem, learning what people need, deciding what matters, designing the
+experience, and eventually turning it into something real.
 
-## Experience
-
-### Web Developer — SciQuel
-*June 2026 – Present*
-
-- Contribute to a React/Next.js science media platform, implementing responsive frontend improvements
-- Debug mobile usability and responsive layout issues across screen sizes
-- Collaborate through Git/GitHub branching, pull requests, and code review workflows
-
-### President — Kids Who Code, NJIT
-*May 2024 – Present*
-
-- Lead an executive board and coordinate a student organization with **90+ university members**
-- Coordinate school partnerships and programming for K–12 students in Newark
-- Identified fragmented access to club resources and led the design and development of a centralized web platform
-
-### Research Assistant — Virtual & Augmented Interfaces, NJIT
-*September 2024 – December 2025*
-
-- Researched **AI-assisted learning experiences in AR/VR** using Unity and C#
-- Collected and analyzed user interaction data to evaluate usability
-- Collaborated on prototype development, experimental design, and usability evaluation
-
-### Co-Manager — MPTC Mentorship Program, NJIT Robotics Club
-*June 2025 – Present*
-
-- Lead NJIT volunteers delivering weekly STEM mentorship at Marion P. Thomas Charter School
-- Develop hands-on programming curriculum using Arduino and Micro:bit
+Right now, I’m building with **React and TypeScript**, exploring **AI/ML**, contributing
+to **SciQuel**, and leading **Kids Who Code at NJIT**.
 
 ---
 
-## Featured projects
+## How I like to work
 
-| Project | What I Built | Stack |
-|---|---|---|
-| **[Kids Who Code Website](YOUR_KWC_REPO)** | Centralized platform for curriculum, events, resources, and organization information for a 90+ member student organization | React · TypeScript · Vite · CSS |
-| **[QuietAid](YOUR_QUIETAID_FORK)** | Privacy-preserving scholarship platform that verifies eligibility without exposing sensitive student information | React · Node.js · Express · MongoDB · Midnight · Docker |
+| 🔎 Understand | ✏️ Design | 💻 Build |
+| :--- | :--- | :--- |
+| User research | User flows | React + TypeScript |
+| Problem discovery | Wireframes | Next.js |
+| Usability testing | Prototyping | Python |
+| Product thinking | Figma | Git + GitHub |
 
-### QuietAid — My Contribution
-
-QuietAid was built collaboratively during the **MLH Midnight Hackathon**. My contributions included:
-
-- Full-stack project setup and integration
-- MongoDB configuration and U.S. scholarship seed data
-- Scholarship matching and application workflows
-- Selective-disclosure user flows
-- Testing, troubleshooting, and documentation
+I’m especially drawn to projects where I can move between these three spaces instead
+of treating product, design, and engineering as completely separate disciplines.
 
 ---
 
-## Product & UX
+# Things I've built
 
-Alongside engineering, I work on the product and user side of technology.
+### 👩‍💻 Kids Who Code Platform
+**Making club resources easier to find for a 90+ member community**
 
-**Product:** Customer Discovery · User Needs · MVP Definition · Prioritization · User Stories · Product Metrics
+Our curriculum, event information, and organizational resources were spread across
+different places, so I led the design and development of a centralized platform
+for NJIT Kids Who Code.
 
-**UX:** User Research · Usability Testing · Wireframing · Prototyping · Information Architecture · Figma
+`React` `TypeScript` `Vite` `CSS` `Figma`
 
-I’m especially interested in understanding **what should be built, why it matters to users, and how to turn that insight into a working product.**
-
----
-
-## Tech stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-
-### Frameworks & Libraries
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-
-### Tools & Design
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+[View repository](YOUR_KWC_REPO)
 
 ---
 
-## Currently
+### 🔐 QuietAid
+**Exploring scholarship eligibility without unnecessary data exposure**
 
-🌱 Strengthening my **software engineering and product development** skills  
-🧠 Exploring **AI/ML and human-centered AI**  
-🚀 Building products from **user problem → design → implementation → iteration**
+Built collaboratively during the **MLH Midnight Hackathon**, QuietAid is a
+privacy-preserving scholarship platform designed around a simple question:
+
+> Can students prove they're eligible without revealing everything about themselves?
+
+I contributed to the full-stack setup, MongoDB configuration, scholarship data,
+application workflows, selective-disclosure flows, testing, and troubleshooting.
+
+`React` `Node.js` `Express` `MongoDB` `Midnight` `Docker`
+
+[View project](YOUR_QUIETAID_FORK) · [Devpost](YOUR_DEVPOST_LINK)
 
 ---
 
-<p align="center">
-  <b>Let's connect!</b><br><br>
-  <a href="YOUR_PORTFOLIO_LINK">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/deekshithaoku">LinkedIn</a> •
-  <a href="mailto:oku.deekshitha@gmail.com">Email</a>
-</p>
+## Beyond the code
+
+### 👩‍💻 Kids Who Code
+I lead a **90+ member student organization** at NJIT that brings hands-on coding
+education to K–12 students in Newark.
+
+### 🔬 Human-centered computing
+As a research assistant, I worked on **AI-assisted learning experiences in AR/VR**,
+combining prototype development with usability research and behavioral data.
+
+### 🤖 What I'm exploring
+I'm currently interested in **software engineering, product development,
+human-centered AI, and the ways UX can shape technical products.**
+
+---
+
+## My toolbox
+
+**Build**  
+`Python` `Java` `JavaScript` `TypeScript` `C#` `C/C++`  
+`React` `Next.js` `Node.js` `HTML` `CSS`
+
+**Data + AI**  
+`PyTorch` `Pandas` `NumPy` `Matplotlib` `Machine Learning`
+
+**Design + Product**  
+`Figma` `User Research` `Usability Testing` `Wireframing` `Prototyping`
+
+**Tools**  
+`Git` `GitHub` `Linux` `VS Code` `Unity`
+
+---
+
+## Right now
+
+🌱 Learning more about **product development + AI**
+
+🛠️ Building projects that start with a **real user problem**, not just a technology
+
+👩‍🏫 Teaching, mentoring, and growing **Kids Who Code**
+
+🔍 Looking for **2027 new-grad opportunities**
+
+---
+
+<div align="center">
+
+### Want to talk about something I'm building?
+
+[Portfolio](YOUR_PORTFOLIO_LINK) ·
+[LinkedIn](https://www.linkedin.com/in/deekshithaoku) ·
+[Email](mailto:oku.deekshitha@gmail.com)
+
+</div>
