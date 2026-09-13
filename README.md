@@ -22,8 +22,7 @@ I’m interested in the space between an idea and a finished product: understand
 the problem, learning what people need, deciding what matters, designing the
 experience, and eventually turning it into something real.
 
-Right now, I’m building with **React and TypeScript**, exploring **AI/ML**, contributing
-to **SciQuel**, and leading **Kids Who Code at NJIT**.
+Right now, I’m contributing to **SciQuel as a web developer**, leading **Kids Who Code at NJIT**, building with **React and TypeScript**, and exploring **AI/ML**.
 
 ---
 
