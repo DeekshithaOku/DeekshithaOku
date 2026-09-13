@@ -84,7 +84,7 @@ As a research assistant, I worked on **AI-assisted learning experiences in AR/VR
 combining prototype development with usability research and behavioral data.
 
 ### 🤖 What I'm exploring
-I'm currently interested in **software engineering, product development,
+I'm currently interested in **product development, software engineering,
 human-centered AI, and the ways UX can shape technical products.**
 
 ---
