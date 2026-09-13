@@ -4,29 +4,40 @@
 
 ### I like figuring out what to build — and then figuring out how to build it.
 
-Computer Science + UX @ NJIT · Graduating May 2027
+🎓 Computer Science + UX @ NJIT · Graduating May 2027
 
-[Portfolio](YOUR_PORTFOLIO_LINK) ·
-[LinkedIn](https://www.linkedin.com/in/deekshithaoku) ·
-[Email](mailto:oku.deekshitha@gmail.com)
+<a href="YOUR_PORTFOLIO_LINK">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/deekshithaoku">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:oku.deekshitha@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 </div>
 
 ---
 
-## A little about me
+## 🌱 A little about me
 
 I'm a Computer Science student at **NJIT** minoring in **Design of the User Experience**.
 
-I’m interested in the space between an idea and a finished product: understanding
+I like working in the space between an idea and a finished product — understanding
 the problem, learning what people need, deciding what matters, designing the
 experience, and eventually turning it into something real.
 
-Right now, I’m contributing to **SciQuel as a web developer**, leading **Kids Who Code at NJIT**, building with **React and TypeScript**, and exploring **AI/ML**.
+Right now, I'm:
+
+- 💻 contributing to **SciQuel** as a web developer
+- 👩‍💻 leading **Kids Who Code at NJIT**
+- 🛠️ building with **React + TypeScript**
+- 🤖 exploring **AI/ML and human-centered technology**
 
 ---
 
-## How I like to work
+## 🧩 How I like to work
 
 | 🔎 Understand | ✏️ Design | 💻 Build |
 | :--- | :--- | :--- |
@@ -35,80 +46,91 @@ Right now, I’m contributing to **SciQuel as a web developer**, leading **Kids 
 | Usability testing | Prototyping | Python |
 | Product thinking | Figma | Git + GitHub |
 
-I’m especially drawn to projects where I can move between these three spaces instead
-of treating product, design, and engineering as completely separate disciplines.
+I’m happiest on projects where I can move between these three spaces instead of
+treating product, design, and engineering as completely separate disciplines.
 
 ---
 
-# Things I've built
+## 🚀 Things I've built
 
 ### 👩‍💻 Kids Who Code Platform
-**Making club resources easier to find for a 90+ member community**
 
-Our curriculum, event information, and organizational resources were spread across
-different places, so I led the design and development of a centralized platform
-for NJIT Kids Who Code.
+> **Making club resources easier to find for a 90+ member community**
 
-`React` `TypeScript` `Vite` `CSS` `Figma`
+Our curriculum, event information, and organizational resources were scattered
+across different places. I led the design and development of a centralized platform
+to give members one place to find what they need.
 
-[View repository](YOUR_KWC_REPO)
+**Built with:** `React` `TypeScript` `Vite` `CSS` `Figma`
+
+→ [View repository](YOUR_KWC_REPO)
 
 ---
 
 ### 🔐 QuietAid
-**Exploring scholarship eligibility without unnecessary data exposure**
 
-Built collaboratively during the **MLH Midnight Hackathon**, QuietAid is a
-privacy-preserving scholarship platform designed around a simple question:
+> **What if students could prove they're eligible without revealing everything about themselves?**
 
-> Can students prove they're eligible without revealing everything about themselves?
+Built collaboratively during the **MLH Midnight Hackathon**, QuietAid explores
+a more privacy-conscious way to match students with scholarships.
 
 I contributed to the full-stack setup, MongoDB configuration, scholarship data,
 application workflows, selective-disclosure flows, testing, and troubleshooting.
 
-`React` `Node.js` `Express` `MongoDB` `Midnight` `Docker`
+**Built with:** `React` `Node.js` `Express` `MongoDB` `Midnight` `Docker`
 
-[View project](YOUR_QUIETAID_FORK) · [Devpost](YOUR_DEVPOST_LINK)
-
----
-
-## Beyond the code
-
-### 🔬 Human-centered computing
-As a research assistant, I worked on **AI-assisted learning experiences in AR/VR**,
-combining prototype development with usability research and behavioral data.
-
-### 👩‍💻 Kids Who Code
-I lead a **350+ member student organization** at NJIT that brings hands-on coding
-education to K–12 students in Newark.
-
-### 🤖 What I'm exploring
-I'm currently interested in **product development, software engineering,
-human-centered AI, and the ways UX can shape technical products.**
+→ [View project](YOUR_QUIETAID_FORK) · [Devpost](YOUR_DEVPOST_LINK)
 
 ---
 
-## My toolbox
+## 🌎 Beyond the code
 
-**Build**  
+### 🔬 Research
+I worked on **AI-assisted learning experiences in AR/VR**, combining prototype
+development with usability research and behavioral data.
+
+### 👩‍🏫 Community
+I lead **Kids Who Code at NJIT**, where we bring hands-on coding education to
+K–12 students in Newark.
+
+### 🧠 Currently curious about...
+**Product development · Software engineering · Human-centered AI · UX for technical products**
+
+Basically: how do we build technology that works *and* makes sense to the people using it?
+
+---
+
+## 🧰 My toolbox
+
+**💻 Build**  
 `Python` `Java` `JavaScript` `TypeScript` `C#` `C/C++`  
 `React` `Next.js` `Node.js` `HTML` `CSS`
 
-**Data + AI**  
+**🤖 Data + AI**  
 `PyTorch` `Pandas` `NumPy` `Matplotlib` `Machine Learning`
 
-**Design + Product**  
+**✏️ Design + Product**  
 `Figma` `User Research` `Usability Testing` `Wireframing` `Prototyping`
 
-**Tools**  
+**⚙️ Tools**  
 `Git` `GitHub` `Linux` `VS Code` `Unity`
+
+---
+
+### ✨ Thanks for stopping by!  ✨ 
+
+I'm always interested in thoughtful products, interesting problems, and things worth building.
 
 <div align="center">
 
-### Want to talk about something I'm building?
-
-[Portfolio](YOUR_PORTFOLIO_LINK) ·
-[LinkedIn](https://www.linkedin.com/in/deekshithaoku) ·
-[Email](mailto:oku.deekshitha@gmail.com)
+<a href="YOUR_PORTFOLIO_LINK">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/deekshithaoku">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:oku.deekshitha@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 </div>
