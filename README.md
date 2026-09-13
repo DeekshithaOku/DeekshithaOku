@@ -56,7 +56,7 @@ to give members one place to find what they need.
 
 **Built with:** `React` `TypeScript` `Vite` `CSS` `Figma`
 
-→ [View repository](YOUR_KWC_REPO)
+→ [View repository](https://github.com/DeekshithaOku/KWC_Website)
 
 ---
 
@@ -72,7 +72,7 @@ application workflows, selective-disclosure flows, testing, and troubleshooting.
 
 **Built with:** `React` `Node.js` `Express` `MongoDB` `Midnight` `Docker`
 
-→ [View project](YOUR_QUIETAID_FORK) · [Devpost](YOUR_DEVPOST_LINK)
+→ [View project](https://github.com/DeekshithaOku/QuietAid) · [Devpost](https://devpost.com/software/generic-name-change-later?ref_content=my-projects-tab&ref_feature=my_projects)
 
 ---
 
