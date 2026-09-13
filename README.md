@@ -74,13 +74,13 @@ application workflows, selective-disclosure flows, testing, and troubleshooting.
 
 ## Beyond the code
 
-### 👩‍💻 Kids Who Code
-I lead a **350+ member student organization** at NJIT that brings hands-on coding
-education to K–12 students in Newark.
-
 ### 🔬 Human-centered computing
 As a research assistant, I worked on **AI-assisted learning experiences in AR/VR**,
 combining prototype development with usability research and behavioral data.
+
+### 👩‍💻 Kids Who Code
+I lead a **350+ member student organization** at NJIT that brings hands-on coding
+education to K–12 students in Newark.
 
 ### 🤖 What I'm exploring
 I'm currently interested in **product development, software engineering,
@@ -102,20 +102,6 @@ human-centered AI, and the ways UX can shape technical products.**
 
 **Tools**  
 `Git` `GitHub` `Linux` `VS Code` `Unity`
-
----
-
-## Right now
-
-🌱 Learning more about **product development + AI**
-
-🛠️ Building projects that start with a **real user problem**, not just a technology
-
-👩‍🏫 Teaching, mentoring, and growing **Kids Who Code**
-
-🔍 Looking for **2027 new-grad opportunities**
-
----
 
 <div align="center">
 
