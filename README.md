@@ -2,7 +2,7 @@
 
 # Hey, I'm Deekshitha 👋
 
-### I like figuring out what to build — and then figuring out how to build it.
+### I like figuring out what to build, then figuring out how to build it.
 
 🎓 Computer Science + UX @ NJIT · Graduating May 2027
 
